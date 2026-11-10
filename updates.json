@@ -1,7 +1,18 @@
 {
   "addons": {
     "quick-container-manager@local": {
-      "updates": []
+      "updates": [
+        {
+          "version": "2.6.1",
+          "update_link": "https://github.com/aaronvstory/qcm-releases/releases/download/v2.6.1/quick-container-manager.xpi",
+          "update_hash": "sha256:8dfe74fa4953f064ccd4ded6e80c290ae5b61d332afec932d443ca269053141b",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "109.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
